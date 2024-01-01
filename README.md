@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/bangcoder" target="blank"><img src="https://img.shields.io/twitter/follow/bangcoder?logo=twitter&style=for-the-badge" alt="bangcoder" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel ,Php , machine learning**
+- 🌱 I’m currently learning **Express ,Node , machine learning(For my thesis)**
 
-- 💬 Ask me about **Laravel , Node, JavaScript, Php**
+- 💬 Ask me about **Express , Node, JavaScript, c++**
 
 - 📫 How to reach me **emon.cse273@gmail.com**
 
