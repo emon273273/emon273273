@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bangcoder" target="blank"><img src="https://img.shields.io/twitter/follow/bangcoder?logo=twitter&style=for-the-badge" alt="bangcoder" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel ,php , machine learning(For my thesis)**
+- 🌱 I’m currently learning **Express js, React , machine learning(For my thesis)**
 
 - 💬 Ask me about **php , Node, JavaScript, c++**
 
