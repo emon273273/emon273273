@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Emon</h1>
 <h3 align="center">A passionate learner from Bangladesh</h3>
-<img align ="right" alt ="coding boy" width="200" src="https://drive.google.com/file/d/15z_Sf6MVwWPzJe-2KBLN4YNgw1f494uL/view?usp=sharing">
+<img align ="right" alt ="coding boy" width="200" src="https://app.gemoo.com/share/image-annotation/669016902143942656?codeId=DWLqowppOx59W&origin=imageurlgenerator">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon273273&label=Profile%20views&color=0e75b6&style=flat" alt="emon273273" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bangcoder" target="blank"><img src="https://img.shields.io/twitter/follow/bangcoder?logo=twitter&style=for-the-badge" alt="bangcoder" /></a> </p>
