@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Emon</h1>
 <h3 align="center">A passionate learner from Bangladesh</h3>
-<img align ="right" alt ="coding boy" width="200" src="https://app.gemoo.com/share/image-annotation/669016902143942656?codeId=DWLqowppOx59W&origin=imageurlgenerator">
+<img align ="right" alt ="coding boy" width="200" src="https://i.pcmag.com/imagery/articles/04YagM6fz3FcklZQ3Tfm2mC-1..v1710263382.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon273273&label=Profile%20views&color=0e75b6&style=flat" alt="emon273273" /> </p>
 
 - 🌱 I’m currently learning **Express js, React , machine learning(For my thesis)**
