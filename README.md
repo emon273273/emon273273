@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Emon</h1>
-<h3 align="center">A passionate Back-end developer from Bangladesh</h3>
-<img align ="right" alt ="coding boy" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEp_KNqAkrlJLyNebiVISdY3ejFuC3Wct5g&usqp=CAU">
+<h3 align="center">A passionate learner from Bangladesh</h3>
+<img align ="right" alt ="coding boy" width="200" src="https://drive.google.com/file/d/15z_Sf6MVwWPzJe-2KBLN4YNgw1f494uL/view?usp=sharing">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon273273&label=Profile%20views&color=0e75b6&style=flat" alt="emon273273" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bangcoder" target="blank"><img src="https://img.shields.io/twitter/follow/bangcoder?logo=twitter&style=for-the-badge" alt="bangcoder" /></a> </p>
@@ -14,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bangcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bangcoder" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/emon273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emon273" height="30" width="40" /></a>
 <a href="https://fb.com/emonsab273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emonsab273" height="30" width="40" /></a>
 <a href="https://instagram.com/chotto_diaryy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chotto_diaryy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bangcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bangcoder" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/emon273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emon273" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/emon273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emon273" height="30" width="40" /></a>
 </p>
