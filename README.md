@@ -4,8 +4,6 @@
 <img align ="right" alt ="coding boy" width="200" src="https://app.gemoo.com/share/image-annotation/669016902143942656?codeId=DWLqowppOx59W&origin=imageurlgenerator">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon273273&label=Profile%20views&color=0e75b6&style=flat" alt="emon273273" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bangcoder" target="blank"><img src="https://img.shields.io/twitter/follow/bangcoder?logo=twitter&style=for-the-badge" alt="bangcoder" /></a> </p>
-
 - 🌱 I’m currently learning **Express js, React , machine learning(For my thesis)**
 
 - 💬 Ask me about **php , Node, JavaScript, c++**
