@@ -4,9 +4,9 @@
 <img align ="right" alt ="coding boy" width="200" src="https://i.pcmag.com/imagery/articles/04YagM6fz3FcklZQ3Tfm2mC-1..v1710263382.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon273273&label=Profile%20views&color=0e75b6&style=flat" alt="emon273273" /> </p>
 
-- 🌱 I’m currently learning **Express js, React , machine learning(For my thesis)**
+- 🌱 I’m currently learning **Next js, React , machine learning and deep learning (For my thesis)**
 
-- 💬 Ask me about **php , Node, JavaScript, c++**
+- 💬 Ask me about **Node, JavaScript, c++, rust**
 
 - 📫 How to reach me **emon.cse273@gmail.com**
 
