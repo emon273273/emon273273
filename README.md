@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Emon</h1>
 <h3 align="center">A passionate learner from Bangladesh</h3>
-<img align ="right" alt ="coding boy" width="200" src="https://ibb.co.com/gdqj5CQ">
+<img align ="right" alt ="coding boy" width="200" src="https://i.ibb.co.com/nBdgHS4/334593596-178828568234199-6524105037813976366-n.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon273273&label=Profile%20views&color=0e75b6&style=flat" alt="emon273273" /> </p>
 
 - 🌱 I’m currently learning **Rust(Programming Language),Next js(full stack framework), React , machine learning and deep learning (For my thesis)**
